@@ -11,4 +11,6 @@ if (j.HasValue)
     i = i * j.Value;
 }
 
+int k = i * j.GetValueOrDefault();
+
 

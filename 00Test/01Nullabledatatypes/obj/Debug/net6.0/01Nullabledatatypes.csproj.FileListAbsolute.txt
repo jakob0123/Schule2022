@@ -1,0 +1,15 @@
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\01Nullabledatatypes\bin\Debug\net6.0\01Nullabledatatypes.exe
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\01Nullabledatatypes\bin\Debug\net6.0\01Nullabledatatypes.deps.json
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\01Nullabledatatypes\bin\Debug\net6.0\01Nullabledatatypes.runtimeconfig.json
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\01Nullabledatatypes\bin\Debug\net6.0\01Nullabledatatypes.dll
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\01Nullabledatatypes\bin\Debug\net6.0\01Nullabledatatypes.pdb
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\01Nullabledatatypes\obj\Debug\net6.0\01Nullabledatatypes.csproj.AssemblyReference.cache
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\01Nullabledatatypes\obj\Debug\net6.0\01Nullabledatatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\01Nullabledatatypes\obj\Debug\net6.0\01Nullabledatatypes.AssemblyInfoInputs.cache
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\01Nullabledatatypes\obj\Debug\net6.0\01Nullabledatatypes.AssemblyInfo.cs
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\01Nullabledatatypes\obj\Debug\net6.0\01Nullabledatatypes.csproj.CoreCompileInputs.cache
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\01Nullabledatatypes\obj\Debug\net6.0\01Nullabledatatypes.dll
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\01Nullabledatatypes\obj\Debug\net6.0\refint\01Nullabledatatypes.dll
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\01Nullabledatatypes\obj\Debug\net6.0\01Nullabledatatypes.pdb
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\01Nullabledatatypes\obj\Debug\net6.0\01Nullabledatatypes.genruntimeconfig.cache
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\01Nullabledatatypes\obj\Debug\net6.0\ref\01Nullabledatatypes.dll

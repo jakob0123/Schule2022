@@ -12,5 +12,11 @@ if (j.HasValue)
 }
 
 int k = i * j.GetValueOrDefault();
+double? v = null;
+string? s = null;
+string text = null;
+
+
+
 
 

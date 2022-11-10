@@ -1,0 +1,15 @@
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\02Call-by-value-reference\bin\Debug\net6.0\02Call-by-value-reference.exe
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\02Call-by-value-reference\bin\Debug\net6.0\02Call-by-value-reference.deps.json
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\02Call-by-value-reference\bin\Debug\net6.0\02Call-by-value-reference.runtimeconfig.json
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\02Call-by-value-reference\bin\Debug\net6.0\02Call-by-value-reference.dll
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\02Call-by-value-reference\bin\Debug\net6.0\02Call-by-value-reference.pdb
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\02Call-by-value-reference\obj\Debug\net6.0\02Call-by-value-reference.csproj.AssemblyReference.cache
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\02Call-by-value-reference\obj\Debug\net6.0\02Call-by-value-reference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\02Call-by-value-reference\obj\Debug\net6.0\02Call-by-value-reference.AssemblyInfoInputs.cache
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\02Call-by-value-reference\obj\Debug\net6.0\02Call-by-value-reference.AssemblyInfo.cs
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\02Call-by-value-reference\obj\Debug\net6.0\02Call-by-value-reference.csproj.CoreCompileInputs.cache
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\02Call-by-value-reference\obj\Debug\net6.0\02Call-by-value-reference.dll
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\02Call-by-value-reference\obj\Debug\net6.0\refint\02Call-by-value-reference.dll
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\02Call-by-value-reference\obj\Debug\net6.0\02Call-by-value-reference.pdb
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\02Call-by-value-reference\obj\Debug\net6.0\02Call-by-value-reference.genruntimeconfig.cache
+C:\Users\jakob.prem\Desktop\SEW2022_Jakob\00Test\02Call-by-value-reference\obj\Debug\net6.0\ref\02Call-by-value-reference.dll

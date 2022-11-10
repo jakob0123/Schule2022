@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Call-by-value-reference",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03TryParse", "03TryParse\03TryParse.csproj", "{962A66A8-3DFD-44C6-8D40-38731051EBDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Enums", "04Enums\04Enums.csproj", "{F99C6B21-2544-4EE9-9C9B-BA8622A6355C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{962A66A8-3DFD-44C6-8D40-38731051EBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{962A66A8-3DFD-44C6-8D40-38731051EBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{962A66A8-3DFD-44C6-8D40-38731051EBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F99C6B21-2544-4EE9-9C9B-BA8622A6355C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99C6B21-2544-4EE9-9C9B-BA8622A6355C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99C6B21-2544-4EE9-9C9B-BA8622A6355C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99C6B21-2544-4EE9-9C9B-BA8622A6355C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

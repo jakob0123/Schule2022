@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jakob.prem\\Desktop\\SEW2022_Jakob\\00Test\\01Nullabledatatypes\\01Nullabledatatypes.csproj",
+      "projectUniqueName": "C:\\Users\\jakob.prem\\Source\\Repos\\Schule2022\\00Test\\01Nullabledatatypes\\01Nullabledatatypes.csproj",
       "projectName": "01Nullabledatatypes",
-      "projectPath": "C:\\Users\\jakob.prem\\Desktop\\SEW2022_Jakob\\00Test\\01Nullabledatatypes\\01Nullabledatatypes.csproj",
+      "projectPath": "C:\\Users\\jakob.prem\\Source\\Repos\\Schule2022\\00Test\\01Nullabledatatypes\\01Nullabledatatypes.csproj",
       "packagesPath": "C:\\Users\\jakob.prem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jakob.prem\\Desktop\\SEW2022_Jakob\\00Test\\01Nullabledatatypes\\obj\\",
+      "outputPath": "C:\\Users\\jakob.prem\\Source\\Repos\\Schule2022\\00Test\\01Nullabledatatypes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

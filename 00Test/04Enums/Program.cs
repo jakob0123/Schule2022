@@ -1,5 +1,6 @@
 ﻿DayOfWeek startofWeek = DayOfWeek.Monday;
 Klasses bestClassofFJ = Klasses.IT19;
+Console.WriteLine(startofWeek);
 Console.WriteLine("Beste Klasse des FJ : "+bestClassofFJ.ToString());
 Console.WriteLine("Beste Klasse des FJ : " + (int)bestClassofFJ);
 Console.WriteLine("Red: "+Color.red);

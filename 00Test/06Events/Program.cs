@@ -22,3 +22,12 @@ tobias.enter(excalibur);
 excalibur.SpendRound();
 jakob.leave(excalibur);
 excalibur.SpendRound();
+
+ExtentedBar moon = new ExtentedBar() { Name = "Moon" };
+
+jakob.enter(moon);
+florian.enter(moon);
+tobias.enter(moon);
+
+moon.SpendNonAlcoholicDrink();
+moon.SpendAlcoholicDrink();

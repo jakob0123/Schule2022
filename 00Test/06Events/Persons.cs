@@ -17,6 +17,23 @@ namespace _06Events
         {
             b.SpendRountEvent += RecieveDrink;
         }
+        public void enter(ExtentedBar b)
+        {
+            b.SpendRoundEvent += RecieveDrinkExtended;
+        }
+
+        private void RecieveDrinkExtended(object? sender, DrinkEventArgs e)
+        {
+            if (e.Drink == DrinkType.Alcoholic)
+            {
+                Console.WriteLine(this.Name + " doesn't like alcoholic drinks");
+
+            }
+            else if (e.Drink  == DrinkType.NonAlcoholic)
+            {
+                Console.WriteLine(this.Name + " is happy about the drink");
+            }
+        }
 
         private void RecieveDrink(object? sender, EventArgs e)
         {

@@ -10,7 +10,6 @@ namespace HelloWorld
             MoonPhases moonPhases = MoonPhases.Firstquarter;
             for (int i = 0; i < 365; i++)
             {
-                
                 Moon.GetMoonPhase(dateTime,ref moonPhases);
                 if (moonPhases == MoonPhases.Fullmoon)
                 {

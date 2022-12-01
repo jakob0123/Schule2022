@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03TryParse", "03TryParse\03
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04Enums", "04Enums\04Enums.csproj", "{F99C6B21-2544-4EE9-9C9B-BA8622A6355C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05Delegets", "05Delegets\05Delegets.csproj", "{4FA4497D-A28E-4A01-B0AA-39A30603EB29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05Delegets", "05Delegets\05Delegets.csproj", "{4FA4497D-A28E-4A01-B0AA-39A30603EB29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Events", "06Events\06Events.csproj", "{EE168283-4982-465B-9668-38B61A7B05A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06Events", "06Events\06Events.csproj", "{EE168283-4982-465B-9668-38B61A7B05A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Gruppe1", "Test_Gruppe1\Test_Gruppe1.csproj", "{907B89E0-D356-412B-A546-B790306EADFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{EE168283-4982-465B-9668-38B61A7B05A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE168283-4982-465B-9668-38B61A7B05A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE168283-4982-465B-9668-38B61A7B05A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{907B89E0-D356-412B-A546-B790306EADFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907B89E0-D356-412B-A546-B790306EADFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907B89E0-D356-412B-A546-B790306EADFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907B89E0-D356-412B-A546-B790306EADFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

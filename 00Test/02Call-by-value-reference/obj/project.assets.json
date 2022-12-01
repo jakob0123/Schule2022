@@ -8,28 +8,25 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jakob.prem\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Jakob Prem\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jakob.prem\\Source\\Repos\\Schule2022\\00Test\\02Call-by-value-reference\\02Call-by-value-reference.csproj",
+      "projectUniqueName": "C:\\Users\\Jakob Prem\\source\\repos\\Schule2022\\00Test\\02Call-by-value-reference\\02Call-by-value-reference.csproj",
       "projectName": "02Call-by-value-reference",
-      "projectPath": "C:\\Users\\jakob.prem\\Source\\Repos\\Schule2022\\00Test\\02Call-by-value-reference\\02Call-by-value-reference.csproj",
-      "packagesPath": "C:\\Users\\jakob.prem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jakob.prem\\Source\\Repos\\Schule2022\\00Test\\02Call-by-value-reference\\obj\\",
+      "projectPath": "C:\\Users\\Jakob Prem\\source\\repos\\Schule2022\\00Test\\02Call-by-value-reference\\02Call-by-value-reference.csproj",
+      "packagesPath": "C:\\Users\\Jakob Prem\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jakob Prem\\source\\repos\\Schule2022\\00Test\\02Call-by-value-reference\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jakob.prem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jakob Prem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

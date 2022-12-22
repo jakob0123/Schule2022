@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jakob.prem\\Source\\Repos\\Schule2022\\00Test\\04Enums\\04Enums.csproj": {}
+    "C:\\Users\\jakob.prem\\source\\repos\\Schule2022\\00Test\\04Enums\\04Enums.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jakob.prem\\Source\\Repos\\Schule2022\\00Test\\04Enums\\04Enums.csproj": {
+    "C:\\Users\\jakob.prem\\source\\repos\\Schule2022\\00Test\\04Enums\\04Enums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jakob.prem\\Source\\Repos\\Schule2022\\00Test\\04Enums\\04Enums.csproj",
+        "projectUniqueName": "C:\\Users\\jakob.prem\\source\\repos\\Schule2022\\00Test\\04Enums\\04Enums.csproj",
         "projectName": "04Enums",
-        "projectPath": "C:\\Users\\jakob.prem\\Source\\Repos\\Schule2022\\00Test\\04Enums\\04Enums.csproj",
+        "projectPath": "C:\\Users\\jakob.prem\\source\\repos\\Schule2022\\00Test\\04Enums\\04Enums.csproj",
         "packagesPath": "C:\\Users\\jakob.prem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jakob.prem\\Source\\Repos\\Schule2022\\00Test\\04Enums\\obj\\",
+        "outputPath": "C:\\Users\\jakob.prem\\source\\repos\\Schule2022\\00Test\\04Enums\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

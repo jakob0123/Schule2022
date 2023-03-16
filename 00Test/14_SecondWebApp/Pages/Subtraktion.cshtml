@@ -1,0 +1,34 @@
+﻿@page
+@model _14_SecondWebApp.Pages.SubtraktionModel
+@{
+}
+<div class="col-md-6">
+    <form method="post" asp-page-handler="Calculate">
+        <div>
+            <input type="number" id="summand1" name="summand1" />
+            <input type="number" id="summand2" name="summand2" />
+        </div>
+        <button type="submit">Ergebnis auf gleicher Seite anzeigen</button>
+
+    </form>
+    @if (Model.Result.HasValue)
+    {
+        <p>Die Rechnung war @Model.Calculation</p>
+        @*<p>Ergenbnis: @Model.Result</p>*@
+    }
+</div>
+<div class="col-md-6">
+    <form method="post" asp-page-handler="CalculateAndRedirect">
+        <div>
+            <input type="number" id="summand1" name="summand1" />
+            <input type="number" id="summand2" name="summand2" />
+        </div>
+        <button type="submit">Ergebnis auf anderer Seite anzeigen</button>
+
+    </form>
+    @if (Model.Result.HasValue)
+    {
+        <p>Die Rechnung war @Model.Calculation</p>
+        @*<p>Ergenbnis: @Model.Result</p>*@
+    }
+</div>

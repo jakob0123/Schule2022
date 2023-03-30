@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "01Nullabledatatypes": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:57119;http://localhost:57132"
+    }
+  }
+}

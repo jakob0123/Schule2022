@@ -5,7 +5,7 @@ namespace Hue05.Pages
 {
     public class IndexModel : PageModel
     {
-        public int zeit { get; set; }
+        public float zeit { get; set; }
         private readonly ILogger<IndexModel> _logger;
 
         public IndexModel(ILogger<IndexModel> logger)
@@ -18,26 +18,11 @@ namespace Hue05.Pages
 
         }
         [HttpPost]
-        public IActionResult OnPostAufstiegszeit(int entferung, int abstieg,int aufstieg)
+        public IActionResult OnPostAufstiegszeit(float entferung, float abstieg, float aufstieg)
         {
-            int zeit;
-            if (abstieg ==null&& aufstieg == null)
-            {
-                zeit = (entferung / 4)*60;   
-            }
-            else if(abstieg ==null&&aufstieg!=null)
-            {
-                zeit = (entferung/4)+(aufstieg/2);
-            }
-            else if (aufstieg == null && abstieg != null)
-            {
-                zeit = (entferung / 4) + (abstieg / 2);
-            }
-            else
-            {
-                zeit = (entferung/4)+(aufstieg / 2)+(abstieg/2);
-            }
-            return RedirectToPage("Index", new
+            float zeit;
+            zeit = (entferung / 4) + ((aufstieg / 300) / 2) + ((abstieg / 500) / 2);
+            return RedirectToPage("Anzeigeelement", new
             {
                 zeit = zeit
             });

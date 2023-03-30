@@ -3,17 +3,39 @@
 @{
     ViewData["Title"] = "Home page";
 }
+<body style="background-image:url('/img/1234.jpg' );background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+background-size:cover">
+@*    <div class="text-center">
+        <h1 style="font-size:300%; class="display-4">Gehzeit auf Wanderwegen</h1>
+        <br />
+        <br />
+        <form method="post" asp-page-handler="Aufstiegszeit">
+            <div>
+                <b>Entfernung</b><input type="text" name="entferung" id="entferung">
+                <b>Aufstieg(Höhenmeter)</b><input type="text" name="aufstieg" id="aufstieg">
+                <b>Abstieg(Höhenmeter)</b><input type="text" name="abstieg" id="abstieg">
 
-<div class="text-center">
-    <h1 class="display-4">Gehzeit auf Wanderwegen</h1>
+            </div>
+            <br />
+            <button type="submit">Aufstiegzeit berechnene</button>
+        </form>
+
+    </div>*@
     <form method="post" asp-page-handler="Aufstiegszeit">
-        <div>
-            <input type="text" name="entferung" value="Entferung" id="entferung">
-            <input type="text" name="aufstieg" value="Aufstieg" id="aufstieg">
-            <input type="text" name="abstieg" value="Abstieg" id="abstieg">
-
+        <div class="form-group">
+            <label for="entferung">Entfernung</label>
+            <input type="text" class="form-control" id="entferung"placeholder="Entferung">
         </div>
-        <button type="submit">Aufstiegzeit berechnene</button>
+        <div class="form-group">
+            <label for="aufstieg">Aufstieg(Höhenmeter)</label>
+            <input type="password" class="form-control" id="aufstieg" placeholder="Aufstieg(Höhenmeter)">
+        </div>
+        <div class="form-group">
+            <label for="abstieg">Abstieg(Höhenmeter)</label>
+            <input type="password" class="form-control" id="abstieg" placeholder="Abstieg(Höhenmeter)">
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
     </form>
-    @Model.zeit
-</div>
+</body>

@@ -1,0 +1,19 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Gehzeit auf Wanderwegen</h1>
+    <form method="post" asp-page-handler="Aufstiegszeit">
+        <div>
+            <input type="text" name="entferung" value="Entferung" id="entferung">
+            <input type="text" name="aufstieg" value="Aufstieg" id="aufstieg">
+            <input type="text" name="abstieg" value="Abstieg" id="abstieg">
+
+        </div>
+        <button type="submit">Aufstiegzeit berechnene</button>
+    </form>
+    @Model.zeit
+</div>

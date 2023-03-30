@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_FirstWebApp", "13_FirstW
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14_SecondWebApp", "14_SecondWebApp\14_SecondWebApp.csproj", "{0E1BA1A0-4455-40E6-98D7-6857D3439170}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hue05", "Hue05\Hue05.csproj", "{3B5910BF-BBBA-44DD-8486-55CF7BF87BD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{0E1BA1A0-4455-40E6-98D7-6857D3439170}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E1BA1A0-4455-40E6-98D7-6857D3439170}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E1BA1A0-4455-40E6-98D7-6857D3439170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5910BF-BBBA-44DD-8486-55CF7BF87BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5910BF-BBBA-44DD-8486-55CF7BF87BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5910BF-BBBA-44DD-8486-55CF7BF87BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5910BF-BBBA-44DD-8486-55CF7BF87BD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
